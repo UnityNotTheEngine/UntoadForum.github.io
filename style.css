@@ -1,5 +1,11 @@
 /* global */
-
+.header-image {
+     background-image:url(conceptTitle.png);
+     background-position: center;
+     background-repeat: no-repeat;
+     position: relative;
+     background-size: cover;
+}
 *{
      box-sizing: border-box;
 }
