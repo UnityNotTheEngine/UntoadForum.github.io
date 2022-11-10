@@ -1,3 +1,14 @@
+/* global */
+
+*{
+     box-sizing: border-box;
+}
+
+html{
+     font-size:14px;
+     font-family: 'Titillum Web' , sans-serif;
+}
 h1{
      font-family: 'VT323', monospace;
 }
+
